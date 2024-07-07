@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Comments and Escape Sequences");
+    printf("Comments");
     return 0;
 }
 //* This is a oneline comment. In one line comment, we have to use two forward slash to make this command.
