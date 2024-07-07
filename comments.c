@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Comments");
+    printf("Comments can be used to explain code, and to make it more readable. It can also be used to prevent execution when testing alternative code.");
     return 0;
 }
 //* This is a oneline comment. In one line comment, we have to use two forward slash to make this command.
